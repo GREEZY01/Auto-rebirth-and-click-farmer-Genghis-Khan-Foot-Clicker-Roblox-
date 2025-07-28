@@ -1,4 +1,4 @@
-# Auto-rebirth-and-click-farmer-Genghis-Khan-Foot-Clicker-Roblox-
+# Auto_farming_script-Roblox
 
 This simple programm will allow you to grind Genghis Khan foot clicker on roblox!!!
 
