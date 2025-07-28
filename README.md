@@ -12,4 +12,4 @@ Before you run you need to insall the PyAutoGUI package which can be done here:
 https://pyautogui.readthedocs.io/en/latest/install.html
 
 However the program only works for 2560x1600 resolution monitos
-I will be updating this somtime this summer 
+I will be updating this sometime this summer 
